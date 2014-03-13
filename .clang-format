@@ -27,9 +27,8 @@ SpacesBeforeTrailingComments: 1
 SpacesInParentheses: false
 Cpp11BracedListStyle: false
 Standard:        Auto
-IndentWidth:     2
+IndentWidth:     4
 UseTab:          false
 BreakBeforeBraces: Allman
 IndentFunctionDeclarationAfterType: false
 ...
-
